@@ -1,0 +1,13 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #1D1D1D;
+    color: #fff;
+    height: 180px;
+    text-align: center;
+}
+
+.mail_icon{
+    vertical-align: middle;
+}
